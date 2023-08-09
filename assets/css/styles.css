@@ -494,10 +494,7 @@ img{
   color: var(--text-color);
 }
 
-.footer__view{
-  font-size: var(--smaller-font-size);
-  color: var(--first-color);
-}
+
 /* ===== MEDIA QUERIES=====*/
 @media screen and (min-width: 768px){
   .home__button{
